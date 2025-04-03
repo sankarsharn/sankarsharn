@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sankarsharn
-- 🌱 I’m currently learning backend and full-stack Web Development
-- 💞️ I’m looking to collaborate on various MERN stack projects
+- 🌱 I’m currently learning machine learning and advanced concepts of web development
+- 💞️ I’m looking to collaborate on various full stack projects
 - 📫 Mail me @ sankarsharnrastogi@gmail.com
 
 <!---
