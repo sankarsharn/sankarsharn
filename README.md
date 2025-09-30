@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sankarsharn
-- 🌱 I’m currently learning machine learning and advanced concepts of web development
-- 💞️ I’m looking to collaborate on various full stack projects
+- 🌱 I’m currently learning deep learning and advanced concepts of gen-ai based development
+- 💞️ I’m looking to collaborate on various full-stack , machine learning , depp learning or gen-ai based projects
 - 📫 Mail me @ sankarsharnrastogi@gmail.com
 
 <!---
